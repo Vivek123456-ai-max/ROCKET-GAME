@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e4f6ca9f2c4540baa83480d5cdc8eb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vfxMain: {instanceID: 0}
+  - vfxRight: {instanceID: 0}
+  - vfxLeft: {instanceID: 0}
+  - sfxThrust: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
